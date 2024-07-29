@@ -1,0 +1,8 @@
+app-nav-bar {
+    height: 60px; /* Adjust the height as needed */
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000; /* Ensure it is above other content */
+  }
